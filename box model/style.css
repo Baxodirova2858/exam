@@ -1,0 +1,11 @@
+body {
+    background-color:#28E145 ;
+}
+h1 {
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 10px;
+}
